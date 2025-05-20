@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test  name="Test">
+  <parameter name ="userName" value ="Admin"/>
+  <parameter name = "password" value ="admin@123"/>
+    <classes>
+     
+      <class name="tests.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
